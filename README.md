@@ -5,10 +5,10 @@ HHA504 Assignment
 
 The objective of this assignment is to introduce you to the use of pre-trained machine learning models in Azure and Google Cloud Platform (GCP). You will use cloud-based notebooks to interact with these models, focusing on speech and vision capabilities.
 
-# GCP
+# *GCP*
 <img width="636" alt="Screenshot 2024-11-03 at 11 21 48 AM" src="https://github.com/user-attachments/assets/b6952cbd-268d-4b03-ae89-088374f513dc">
 
-# Azure
+# *Azure*
 
 <img width="1284" alt="Screenshot 2024-11-03 at 11 22 50 AM" src="https://github.com/user-attachments/assets/c1bc30df-04e7-4ff9-821d-080f3c2cc1cf">
 
@@ -23,3 +23,7 @@ The objective of this assignment is to introduce you to the use of pre-trained m
 <img width="1206" alt="Screenshot 2024-11-03 at 11 27 46 AM" src="https://github.com/user-attachments/assets/edd42a8e-3440-4c7a-bad3-7162a3f51e13">
 
 <img width="1168" alt="Screenshot 2024-11-03 at 11 29 06 AM" src="https://github.com/user-attachments/assets/ee488770-948b-44e7-8d65-a3e94a4f480c">
+
+<img width="1262" alt="Screenshot 2024-11-03 at 11 32 12 AM" src="https://github.com/user-attachments/assets/21c3afbb-86af-4b07-b198-d7bf745ad3b7">
+
+### *stopped running ; cost $0.29/hr (when running)* 
