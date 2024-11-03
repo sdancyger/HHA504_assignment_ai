@@ -26,4 +26,6 @@ The objective of this assignment is to introduce you to the use of pre-trained m
 
 <img width="1262" alt="Screenshot 2024-11-03 at 11 32 12 AM" src="https://github.com/user-attachments/assets/21c3afbb-86af-4b07-b198-d7bf745ad3b7">
 
-### *stopped running ; cost $0.29/hr (when running)* 
+### * Proceeded to stop running ; cost $0.29/hr (when running)* 
+
+<img width="1265" alt="Screenshot 2024-11-03 at 11 36 00 AM" src="https://github.com/user-attachments/assets/120ce7d6-af14-45fc-bf9a-a101284058af">
