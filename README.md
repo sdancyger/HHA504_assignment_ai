@@ -1,5 +1,5 @@
 # HHA504_assignment_ai
-HHA504
+HHA504 Assignment
 
 ## Objective
 
@@ -18,4 +18,8 @@ The objective of this assignment is to introduce you to the use of pre-trained m
 
 <img width="1142" alt="Screenshot 2024-11-03 at 11 25 41 AM" src="https://github.com/user-attachments/assets/005a02b4-e9eb-4f0c-9dbf-e6aa4572dddb">
 
+<img width="1083" alt="Screenshot 2024-11-03 at 11 26 44 AM" src="https://github.com/user-attachments/assets/c3f6e16c-2d65-439e-9336-d28b846cff5d">
 
+<img width="1206" alt="Screenshot 2024-11-03 at 11 27 46 AM" src="https://github.com/user-attachments/assets/edd42a8e-3440-4c7a-bad3-7162a3f51e13">
+
+<img width="1168" alt="Screenshot 2024-11-03 at 11 29 06 AM" src="https://github.com/user-attachments/assets/ee488770-948b-44e7-8d65-a3e94a4f480c">
